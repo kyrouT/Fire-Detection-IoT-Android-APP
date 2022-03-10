@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Vuerduino</string>
+    <string name="title_activity_main">Vuerduino</string>
+    <string name="package_name">com.vuerduino.app</string>
+    <string name="custom_url_scheme">com.vuerduino.app</string>
+</resources>
